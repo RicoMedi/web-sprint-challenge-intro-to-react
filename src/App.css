@@ -2,7 +2,23 @@
   text-align: center;
 }
 .Header {
-  color: #443e3e;
+  color: #ffffff;
   text-shadow: 1px 1px 5px #fff;
+  font-size: 50px ;
+  font-family: "press Start 2p";
+  border: 5px solid #333532;
+  border-radius: 50px;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color:rgb(198, 163, 221);
+  background-image:url(./images/a-header.jpg)
+  
+  
 }
 /* write your parent styles in here for your App.js */
+h2 {
+  font-family: 'Rocher';
+  
+}
